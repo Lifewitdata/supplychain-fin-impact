@@ -41,25 +41,7 @@ A comprehensive Python-based analysis tool for evaluating the financial impact o
   - matplotlib: Data visualization
   - seaborn: Statistical data visualization
 
-## 📦 Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/supply-chain-analysis.git
-cd supply-chain-analysis
-```
-
-2. Install required packages:
-```bash
-pip install -r requirements.txt
-```
-
-## 🚀 Usage
-
-### Basic Usage
-Run the main analysis script:
-```bash
-python supply_chain_analysis.py
 ```
 
 ### Output Files
